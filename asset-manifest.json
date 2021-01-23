@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/njxixi.github.io/static/css/main.b850b489.chunk.css",
-    "main.js": "/njxixi.github.io/static/js/main.b2395665.chunk.js",
-    "main.js.map": "/njxixi.github.io/static/js/main.b2395665.chunk.js.map",
+    "main.js": "/njxixi.github.io/static/js/main.e536347d.chunk.js",
+    "main.js.map": "/njxixi.github.io/static/js/main.e536347d.chunk.js.map",
     "runtime-main.js": "/njxixi.github.io/static/js/runtime-main.7fd7514c.js",
     "runtime-main.js.map": "/njxixi.github.io/static/js/runtime-main.7fd7514c.js.map",
     "static/js/2.1cc1c711.chunk.js": "/njxixi.github.io/static/js/2.1cc1c711.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.d582ceda.chunk.js": "/njxixi.github.io/static/js/4.d582ceda.chunk.js",
     "static/js/4.d582ceda.chunk.js.map": "/njxixi.github.io/static/js/4.d582ceda.chunk.js.map",
     "index.html": "/njxixi.github.io/index.html",
-    "precache-manifest.f30605593c22f8c6b0718d953413ae1a.js": "/njxixi.github.io/precache-manifest.f30605593c22f8c6b0718d953413ae1a.js",
+    "precache-manifest.bf7c7359b6c3ae77879d978a52303b65.js": "/njxixi.github.io/precache-manifest.bf7c7359b6c3ae77879d978a52303b65.js",
     "service-worker.js": "/njxixi.github.io/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/njxixi.github.io/static/css/3.00373544.chunk.css.map",
     "static/css/4.a922a401.chunk.css.map": "/njxixi.github.io/static/css/4.a922a401.chunk.css.map",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.7fd7514c.js",
     "static/js/2.1cc1c711.chunk.js",
     "static/css/main.b850b489.chunk.css",
-    "static/js/main.b2395665.chunk.js"
+    "static/js/main.e536347d.chunk.js"
   ]
 }
