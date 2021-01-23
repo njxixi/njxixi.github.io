@@ -1,39 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ed472ddc097c8cf0d6fdf74086e3c4d",
+    "revision": "43dd2f1cacab8e02ce9b2e5100f2ff60",
     "url": "/njxixi.github.io/index.html"
   },
   {
-    "revision": "83358b7e82844b8f1c45",
+    "revision": "180cdf0e5f0e5171f009",
     "url": "/njxixi.github.io/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "98f70ba25d4170b395ab",
-    "url": "/njxixi.github.io/static/css/4.a922a401.chunk.css"
+    "revision": "098bdb87d5197556f6aa",
+    "url": "/njxixi.github.io/static/css/main.8b88b110.chunk.css"
   },
   {
-    "revision": "6306ab9ac5a5eb3ec508",
-    "url": "/njxixi.github.io/static/css/main.b850b489.chunk.css"
+    "revision": "4a9db14d218ab92f908c",
+    "url": "/njxixi.github.io/static/js/2.e4293b3b.chunk.js"
   },
   {
-    "revision": "e56194d65e98ed91c5e7",
-    "url": "/njxixi.github.io/static/js/2.8dd305f8.chunk.js"
+    "revision": "180cdf0e5f0e5171f009",
+    "url": "/njxixi.github.io/static/js/3.b2c245f5.chunk.js"
   },
   {
-    "revision": "83358b7e82844b8f1c45",
-    "url": "/njxixi.github.io/static/js/3.a45b22b8.chunk.js"
+    "revision": "098bdb87d5197556f6aa",
+    "url": "/njxixi.github.io/static/js/main.48ee9ab2.chunk.js"
   },
   {
-    "revision": "98f70ba25d4170b395ab",
-    "url": "/njxixi.github.io/static/js/4.d582ceda.chunk.js"
-  },
-  {
-    "revision": "6306ab9ac5a5eb3ec508",
-    "url": "/njxixi.github.io/static/js/main.8c7dd8f2.chunk.js"
-  },
-  {
-    "revision": "c8667b6d91f0aed75e60",
-    "url": "/njxixi.github.io/static/js/runtime-main.7fd7514c.js"
+    "revision": "c0b010aaec81b5406c6c",
+    "url": "/njxixi.github.io/static/js/runtime-main.049e7e7e.js"
   },
   {
     "revision": "bb47f16a8c8f6e25aa40fb4cb9e400db",
