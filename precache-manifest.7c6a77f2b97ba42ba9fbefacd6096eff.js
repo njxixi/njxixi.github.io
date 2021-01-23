@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fb2dfdd5e08739dcf3eec45ff1fe670",
+    "revision": "908765eefcded2a2cda8fda652891142",
     "url": "/njxixi.github.io/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/njxixi.github.io/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "a4ad654136f582f3ba90",
+    "revision": "653c5b2890eba07c3a99",
     "url": "/njxixi.github.io/static/css/main.8ee4a711.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/njxixi.github.io/static/js/4.789f8334.chunk.js"
   },
   {
-    "revision": "a4ad654136f582f3ba90",
-    "url": "/njxixi.github.io/static/js/main.ed5e4cd6.chunk.js"
+    "revision": "653c5b2890eba07c3a99",
+    "url": "/njxixi.github.io/static/js/main.ce409549.chunk.js"
   },
   {
     "revision": "9e195749209f6c497e2e",
