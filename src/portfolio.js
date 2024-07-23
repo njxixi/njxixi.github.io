@@ -295,7 +295,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1JoHeohfHzCxNqIMqS_MgMfo4Wms6utNZ/view?usp=drive_link"
         },
       ]
     },
