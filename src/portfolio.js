@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 with experience in building end-to-end scalable applications using JavaScript, React.js, Node.js, Java, and various other libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1B14v8oZD9AIgIz3s5_w3nYA4bSjsVX75/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1ey68B5ehaXifYNNsjWEi2n_D_FsVKfXL/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
