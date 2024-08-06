@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c08eea3ebfea2889279e2927dcdd9f86",
+    "revision": "be5e6ba4af999ddf5fbe44fcdb99bd4b",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.3df3000b.chunk.css"
   },
   {
-    "revision": "9e1fbbf03d71af9d23fe",
+    "revision": "492ba84b76e05b3e4160",
     "url": "/static/css/main.c735ae60.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.630bdcd5.chunk.js"
   },
   {
-    "revision": "9e1fbbf03d71af9d23fe",
-    "url": "/static/js/main.b0e24c70.chunk.js"
+    "revision": "492ba84b76e05b3e4160",
+    "url": "/static/js/main.13bb53fd.chunk.js"
   },
   {
     "revision": "52f99cfbb99e9d907005",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "87f88d39122d8d47bd0ffbc932b4a7ac",
-    "url": "/static/media/Namra Joshi Resume 2024.87f88d39.pdf"
+    "revision": "1acf1d5c129fbda0cab59675bfd805d5",
+    "url": "/static/media/Namra Joshi Resume 2024.1acf1d5c.pdf"
   },
   {
     "revision": "59d0092abfbd3ed4dd8fd97a6f8d62be",
